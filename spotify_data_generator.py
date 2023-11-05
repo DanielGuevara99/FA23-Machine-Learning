@@ -97,9 +97,11 @@ for l in artists:
     artist_id = result["id"]
 
     features = get_artist_features(token, artist_id)
-
+    if features == None:
+        continue
     for k in features:
         dataD[k] += [features[k]]
+
 
 data = pd.DataFrame.from_dict(dataD)
 data.to_csv("spotify_data.csv", index = False)
