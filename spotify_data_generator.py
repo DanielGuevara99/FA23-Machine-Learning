@@ -10,6 +10,7 @@ load_dotenv()
 client_id = os.getenv("CLIENT_ID")
 secret_id = os.getenv("CLIENT_SECRET")
 
+#returns the token for spotify
 def get_token():
     auth_string = client_id  + ":" + secret_id
     auth_bytes = auth_string.encode("utf-8")
@@ -29,6 +30,7 @@ def get_token():
 def get_auth_header(token):
     return {"Authorization":  "Bearer " + token}
 
+#returns the artist's general info
 def get_artist_info(token, artist_name):
     url = "https://api.spotify.com/v1/search"
     headers = get_auth_header(token)
@@ -45,6 +47,7 @@ def get_artist_info(token, artist_name):
     
     return json_result[0]
 
+#returns the proper feature values to populate the table
 def get_artist_features(token, artist_id):
     #get top tracks of an artist
     url = f"https://api.spotify.com/v1/artists/{artist_id}/top-tracks?country=US"
@@ -65,6 +68,7 @@ def get_artist_features(token, artist_id):
     explicit_score = 0
     avg_duration = 0
 
+    #gets averages for every top track
     for song in json_result:
         avg_popularity += int(song["popularity"])
 
@@ -86,11 +90,17 @@ def get_artist_features(token, artist_id):
 
     return features
 
+#a file with a list of artists to generate data from
 artists = open("artists.txt", "r")
 
 token = get_token()
 
+#initialized dictionary for data
 dataD = {'name':[], "followers":[], 'artist_genre':[], "average_popularity":[], "explicit_score":[], "average_duration":[]}
+
+#provides entries for the dictionary
+genres = [None]
+
 for l in artists:
     artist_name = l.strip()
     result = get_artist_info(token, artist_name)
@@ -99,9 +109,19 @@ for l in artists:
     features = get_artist_features(token, artist_id)
     if features == None:
         continue
+    if not len(features["artist_genre"]) == 0 and not (features["artist_genre"][0] in genres):
+        genres += [features["artist_genre"][0]]
     for k in features:
+        if(k == "artist_genre"):
+            if(len(features[k]) == 0):
+                dataD[k] += [0]
+                continue
+            dataD[k] += [genres.index(features[k][0])]
+            continue
         dataD[k] += [features[k]]
 
 
+
+#converts the dictionary to a csv file
 data = pd.DataFrame.from_dict(dataD)
 data.to_csv("spotify_data.csv", index = False)
