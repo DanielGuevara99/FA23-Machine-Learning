@@ -77,11 +77,13 @@ def get_artist_features(token, artist_id):
 
         avg_duration += int(song["duration_ms"]/1000)
 
-
+    followersb = 0
+    if(followers > 12500):
+        followersb = 1
     
     features = {
         "name": name,
-        "followers": followers,
+        "followers": followersb,
         "artist_genre": genre,
         "average_popularity": avg_popularity/songCount,
         "explicit_score": explicit_score,
@@ -125,3 +127,4 @@ for l in artists:
 #converts the dictionary to a csv file
 data = pd.DataFrame.from_dict(dataD)
 data.to_csv("spotify_data.csv", index = False)
+
