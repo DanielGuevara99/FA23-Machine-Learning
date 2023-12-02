@@ -1,12 +1,452 @@
 name,followers,artist_genre,average_popularity,explicit_score,average_duration
-Juliette,0,0,41.0,0,123.5
-B4TU INC.,1,1,38.3,5,135.4
-Pacho El Antifeka,1,2,45.1,5,287.6
-"Tyler, The Creator",1,3,80.5,10,247.1
-Acordi,0,4,23.8,0,292.9
-despite others,0,5,17.4,0,364.0
-Manni Manta,0,6,26.3,2,174.5
-John O'Callaghan,1,7,23.7,0,276.4
-Eduardo Costa,1,8,61.3,0,205.1
-Way Out West,1,9,33.5,0,333.4
-Fortunate Youth,1,10,42.9,0,250.0
+Juliette Armanet,1,1,54.2,0,192.9
+B4TU INC.,1,2,38.2,5,135.4
+Pacho El Antifeka,1,3,44.4,5,287.6
+Tyne,0,4,10.0,0,198.6
+Acordi,0,5,23.6,0,306.2
+despite others,0,6,16.6,0,364.0
+Manni Manta,0,7,24.7,2,174.5
+John O'Callaghan,1,8,19.9,0,231.0
+Eduardo Costa,1,9,60.6,0,205.1
+Way Out West,1,10,32.8,0,333.4
+Fortunate Youth,1,11,41.5,0,247.1
+DJ Hype,1,12,25.4,0,349.5
+Escape the Fate,1,13,58.3,1,215.5
+Lee Gamble,1,14,19.8,0,237.8
+Chaar Hazaari,0,15,9.2,0,288.9
+Spin,1,16,38.2,0,250.3
+Champagne Drip,1,17,24.9,0,266.8
+Pete Bernhard,0,18,22.1,0,228.3
+She Past Away,1,19,37.8,0,281.9
+Elvis Costello,1,20,47.9,0,167.9
+Hypnosis Therapy,0,21,26.3,0,153.5
+Jeremy Essig,0,22,8.2,7,146.6
+Ashanti,1,23,64.6,5,220.3
+InsideInfo,1,24,29.7,0,263.3
+Loud Luxury,1,25,46.8,1,196.8
+A. Ramlie,1,26,28.2,0,199.6
+Wilmer X,1,27,32.1,0,230.3
+Boom-Bastic,0,28,8.6,0,268.3
+Igor Talkov,1,29,28.6,0,381.0
+vibesment,0,30,24.88888888888889,0,142.0
+William Byrd,1,31,27.8,0,152.0
+The B. B. & Q. Band,0,32,22.0,0,325.5
+The Earls Of Leicester,0,33,26.9,0,146.0
+The Souljazz Orchestra,1,34,39.8,0,295.3
+MaryLee,0,35,22.5,0,67.8
+Helix Dynasty,0,36,29.88888888888889,0,187.77777777777777
+Nailbomb,1,37,34.1,5,309.8
+Elmer Gantry's Velvet Opera,0,38,11.2,0,154.3
+Grupa 220,0,39,10.2,0,216.2
+Nocna Zmiana Bluesa,0,40,9.1,0,223.1
+New Life Worship,1,41,40.7,0,269.7
+Brief Moments,0,0,25.2,0,149.3
+Head North,0,42,21.7,0,208.4
+Taimane,1,43,19.5,0,236.8
+Margarita Siempre Viva,1,44,38.8,0,172.4
+Lacing,0,45,8.8,0,324.1
+Alberto Iglesias,1,46,36.9,0,162.5
+Mahendra Kapoor,1,47,32.2,0,317.4
+Jordin Sparks,1,23,54.4,0,218.7
+Olivia Neutered John,0,48,7.9,9,120.3
+Tigers Jaw,1,42,46.4,1,202.4
+BeatBo,0,49,29.25,0,95.75
+Bestial Mockery,1,50,15.8,0,160.9
+Ghosts Of Atlantis,0,51,18.5,0,331.8
+Michael Dulin,0,52,25.1,0,271.4
+Pr Aguinaldo Silva,0,53,16.1,0,204.2
+Charles Jenkins,1,54,20.9,0,246.3
+Leo Santana,1,55,62.0,0,167.4
+Alex Reece,1,12,30.3,0,321.6
+Sail North,1,0,63.5,0,191.0
+Eagles Of Death Metal,1,56,45.8,0,191.2
+Downtown Binary,0,57,44.2,0,277.0
+All Angels,1,58,28.9,0,213.8
+Bero Costa DJ,0,59,20.125,3,154.625
+Babylon Zoo,0,60,19.9,0,282.2
+Molho Negro,0,61,21.6,0,181.7
+Ruth Brown,1,62,34.8,0,165.9
+Michael Reed,0,63,0.0,0,184.0
+Abhi Saikia,1,64,28.3,0,295.6
+Lynn Yew Evers,0,52,16.6,0,218.1
+Roy Davis Jr.,1,65,29.9,0,310.1
+Last in Line,1,66,12.9,0,273.4
+Sound Convoy,0,67,15.9,0,239.8
+Jamie xx,1,68,51.5,1,262.4
+The Troggs,1,69,38.5,0,158.1
+Gary Low,0,70,23.6,0,427.1
+Lukas Graham,1,71,59.8,1,203.9
+The Restarts,1,72,21.6,4,162.9
+Six Brew Bantha,0,73,7.4,1,95.5
+Stoned Level,0,74,30.1,3,205.9
+Timbalada,1,75,29.7,0,203.5
+Chinese Telephones,0,76,10.4,1,153.2
+Los Secretos,1,77,50.1,0,207.2
+Loadstar,1,12,29.0,0,239.7
+Darren Styles,1,28,27.0,0,255.8
+Evil Nine,1,78,29.5,0,255.5
+EXILIOS,0,79,27.4,0,228.1
+Shaggy,1,80,31.3,0,343.6
+Little by Little,0,81,19.3,0,249.6
+Big Dope P,0,82,24.3,1,179.0
+YOUR SONG IS GOOD,1,83,18.5,0,301.6
+Clive Rowe,0,0,4.3,0,237.9
+Coldcut,1,84,22.4,0,246.9
+Our Hearts Hero,0,85,9.5,0,224.6
+Spice Girls,1,23,66.6,0,240.8
+John Williams,1,86,53.5,0,203.8
+Joonas Hahmo,0,87,19.2,0,268.9
+Tenacious D,1,13,60.4,7,175.7
+Technical Itch,1,24,16.1,1,306.3
+Kiddie Boppers,0,88,0.2,0,176.7
+Moaan Exis,0,6,15.6,3,244.7
+Retarded,0,89,8.6,0,123.7
+Chris Brown,1,90,79.5,7,224.9
+Lefty Sm,1,91,72.3,5,253.8
+Cidade Negra,1,75,44.0,0,241.3
+GoldFord,1,0,43.1,0,203.3
+Girls' Generation-TTS,1,92,41.2,0,216.9
+MEUK,0,0,21.555555555555557,0,174.44444444444446
+Nubya Garcia,1,93,32.4,0,350.1
+Tumelo,0,94,9.9,0,360.6
+Amanita Phalloides,0,0,23.7,0,426.3
+Hortense Ellis,0,95,25.1,0,185.0
+Santana the Golden Boy,1,3,31.0,3,254.0
+David Tao,1,96,57.4,0,261.0
+B2A,0,97,33.3,1,189.2
+Augustana,1,98,38.8,0,226.3
+El-B,0,99,13.5,0,296.7
+Naomi Banks,0,100,14.8,3,194.1
+Ian Tyson,1,101,31.1,0,235.4
+"Santanna ""O Cantador""",1,102,38.6,0,211.9
+Iggy Pop,1,103,55.5,1,244.4
+Cautious Clay,1,104,30.5,0,282.4
+Rafet El Roman,1,105,51.3,0,230.4
+Imelda May,1,106,35.5,0,191.5
+Alpha Portal,1,107,20.6,0,433.0
+Ryan Oakes,1,108,51.3,9,176.3
+Jim and Jesse and the Virginia Boys,0,109,22.5,0,150.1
+Jeremy Riddle,1,41,54.5,0,349.8
+Destructo,1,110,25.8,3,220.4
+Loco Dice,1,111,10.9,0,336.6
+Hunter Foster,0,112,34.2,0,215.1
+Gram Parsons,1,113,38.3,0,222.2
+OTTO,1,114,30.3,0,196.5
+Eve Ai,1,115,42.7,0,285.1
+The Damned Things,1,66,26.1,1,226.3
+Enygma Rapper,1,116,49.3,1,300.0
+John Amplificado,1,55,28.9,2,153.7
+Wandile Mbambeni,0,117,9.3,0,222.3
+Avanti Nagral,1,118,21.5,0,207.6
+Aril Brikha,1,119,18.8,0,451.5
+Insane Clown Posse,1,120,60.8,9,275.5
+Csejthe,0,121,17.1,0,223.2
+Guns N' Roses,1,122,78.8,4,353.0
+Little Quail and The Mad Birds,0,123,8.2,0,131.9
+Hype Duo,0,124,19.7,4,226.3
+Oliver Anthony Music,1,125,64.7,0,163.5
+Varun Sunil,0,126,34.4,0,254.3
+The Vines,1,103,50.1,0,142.2
+Pecker Dunne,0,127,28.4,0,152.8
+Erik Satie,1,128,22.8,0,217.6
+iamSHUM,0,83,17.0,2,222.7
+Wolfgang Amadeus Mozart,1,128,59.9,0,330.4
+Cem Pilevneli,1,129,32.8,2,242.5
+DevilDriver,1,13,41.3,4,234.1
+Bernard Herrmann,1,130,41.8,0,156.3
+Mad Cobra,1,131,37.1,3,179.8
+R.K.M & Ken-Y,1,132,61.6,0,228.0
+The Maddox Brothers & Rose,0,133,8.9,0,146.1
+Warcollapse,0,72,14.6,3,151.5
+Isabelle Adjani,0,134,40.5,0,233.4
+Papa Dance,1,135,34.4,0,235.7
+the eames era,0,136,7.2,0,192.1
+Grupo TMB,1,137,39.7,5,194.7
+Flume,1,138,53.3,0,232.8
+xander.,1,139,49.3,0,181.0
+Niklas Ibach,0,140,29.2,0,237.4
+Nikolai Erdenko,0,141,6.5,0,188.3
+Die Atzen,1,142,53.2,1,185.3
+Igor Talkov,1,29,28.6,0,381.0
+Emil Assergård,1,143,46.8,1,168.3
+Hasan Isakkut,0,144,16.9,0,349.5
+ONE PROMISE,0,145,20.3,0,234.7
+Immolation,1,146,32.9,1,216.8
+Alex Ceesay,1,147,38.6,10,207.3
+DJ Frank,0,0,38.8,5,249.1
+Asphalt Anton,0,7,17.6,0,170.9
+Caspar Babypants,1,35,46.7,0,128.8
+Isan,1,148,27.9,0,194.2
+Operación Triunfo 2017,1,149,22.8,0,166.7
+Sonny Terry and Brownie McGhee,1,150,21.8,0,171.8
+Nitro Fun,1,151,39.5,0,227.7
+Ideal,0,152,24.6,1,221.0
+Ilkan Gunuc,1,153,43.0,2,167.4
+Nigel Good,0,151,29.1,0,220.8
+Sofía Reyes,1,154,61.5,1,183.7
+DJ 3000,0,119,6.0,0,330.5
+Parekh & Singh,1,118,22.4,0,188.8
+Conjunto Clasico / Tito Nieves,0,155,15.9,0,291.2
+Night Verses,1,156,34.4,0,284.4
+Larry Williams,1,157,35.2,0,138.2
+Yuri,1,158,33.0,0,216.5
+Wax Tailor,1,68,50.5,1,200.0
+Isham Jones And His Orchestra,0,159,12.9,0,182.9
+Fred again..,1,25,51.0,6,208.3
+General Knas,1,160,33.8,1,220.0
+The Mission,1,161,35.9,0,307.8
+Who Let The Dogs Out Party,0,88,6.7,0,210.8
+Mc Danone,1,162,37.0,10,124.4
+Carin Leon,1,137,72.8,1,195.8
+"Raining White Noise Sleep Sound: Increase Focus, Concentration, Privacy - Heal Migraines, Headaches, Tinnitus with Raind",0,163,31.0,0,572.0
+Pyotr Ilyich Tchaikovsky,1,128,33.5,0,340.9
+Aimyon,1,164,52.1,0,272.0
+EarlyRise,1,165,31.7,0,221.7
+Judas Iscariot,1,146,20.3,10,313.6
+Something Corporate,1,166,42.7,1,255.2
+Jillian Edwards,1,98,42.4,0,214.2
+Till Brönner,1,167,20.4,0,252.9
+Fred V,1,168,42.6,0,240.7
+Los Eleven,1,3,23.3,10,248.7
+Odd Shapes,0,169,13.333333333333334,0,181.5
+Jam City,1,14,34.5,1,188.9
+Selda Bağcan,1,170,54.0,0,233.0
+The F16s,1,171,29.0,5,238.6
+Yung Zime,0,0,36.9,8,158.8
+Estas Tonne,1,172,46.3,0,646.0
+Chieko Baisho,0,173,21.2,0,201.4
+Gyptian,1,174,8.3,0,180.2
+Nines,1,175,53.4,10,216.2
+Intimistas,1,176,33.9,0,188.2
+Giuseppe Verdi,1,128,32.6,0,149.5
+Imaginary Future,1,98,48.3,0,171.6
+Bob Marley & The Wailers,1,177,73.9,0,241.0
+Ninajirachi,1,178,26.2,4,181.8
+Injury Reserve,1,179,43.3,10,259.1
+Crumb,1,180,44.8,0,215.1
+Eclipse,1,181,43.3,0,199.1
+The White Tie Affair,1,182,25.2,0,210.1
+Trio Corrente,0,183,12.9,0,274.8
+Jvst Fly,0,184,30.4,0,191.9
+Nacho Sanabria,1,185,12.8,0,257.7
+Robby East,1,186,36.4,0,248.1
+Glee Club,0,187,4.4,0,248.7
+Denzel Curry,1,188,63.0,9,194.7
+The Scene Aesthetic,1,189,23.4,0,222.0
+Mütze Katze,0,7,41.55555555555556,2,159.22222222222223
+Nerf Herder,1,89,25.1,1,178.5
+Dr. Alimantado,1,190,22.6,0,189.2
+Little Tree Jazz Trio,0,191,15.333333333333334,0,294.6666666666667
+Aleks Syntek,1,192,50.4,0,282.7
+Grupo Treo,1,193,35.0,0,228.7
+The Specials,1,194,14.1,0,198.6
+The Knocks,1,195,46.1,0,293.2
+KK,1,196,44.3,0,388.4
+Helix Dynasty,0,36,29.88888888888889,0,187.77777777777777
+Nailbomb,1,37,34.1,5,309.8
+Elmer Gantry's Velvet Opera,0,38,11.2,0,154.3
+Grupa 220,0,39,10.2,0,216.2
+Nocna Zmiana Bluesa,0,40,9.1,0,223.1
+New Life Worship,1,41,40.7,0,269.7
+Brief Moments,0,0,25.2,0,149.3
+Head North,0,42,21.7,0,208.4
+Taimane,1,43,19.5,0,236.8
+Margarita Siempre Viva,1,44,38.8,0,172.4
+Lacing,0,45,8.8,0,324.1
+Alberto Iglesias,1,46,36.9,0,162.5
+Mahendra Kapoor,1,47,32.2,0,317.4
+Jordin Sparks,1,23,54.4,0,218.7
+Olivia Neutered John,0,48,7.9,9,120.3
+Tigers Jaw,1,42,46.4,1,202.4
+BeatBo,0,49,29.25,0,95.75
+Bestial Mockery,1,50,15.8,0,160.9
+Ghosts Of Atlantis,0,51,18.5,0,331.8
+Michael Dulin,0,52,25.1,0,271.4
+Ely Waves,1,197,39.6,6,134.0
+Soda Stereo,1,198,59.6,0,253.5
+The Staple Singers,1,199,47.2,0,228.0
+Zanka Madi,0,200,14.0,0,164.0
+F-Rontal,0,201,24.7,0,387.9
+The Learning Station,1,49,45.6,0,147.6
+Justin Bieber,1,202,62.2,7,227.5
+Grupo Querosene,0,203,13.4,0,262.4
+Clara Schumann,1,128,16.4,0,330.7
+Counting Crows,1,204,62.4,0,230.7
+Cold Weather Company,0,205,24.6,0,276.4
+Damian Lazarus,1,206,25.3,0,369.1
+Liga Carnaval SP,0,207,19.7,0,363.5
+Yaeji,1,208,47.9,0,219.2
+DJ LILMAN,1,209,3.8,2,154.0
+Ani DiFranco,1,210,40.2,0,252.6
+Hoogway,1,139,43.6,0,140.8
+Vargas & Lagola,1,211,40.1,0,228.0
+VONDA7,0,212,19.0,0,304.2
+Wedge,0,213,9.1,0,302.0
+Aaron Spectre,0,214,10.0,0,305.9
+Reobote Zion,0,215,22.0,0,259.3
+"Crosby, Stills & Nash",1,216,56.9,0,239.9
+M.I.A.,1,217,21.4,0,241.7
+Christmas Relax for Pets,0,0,37.1,0,139.7
+Soziedad Alkoholika,1,218,38.6,0,194.6
+The McCoys,1,219,27.3,0,171.8
+The Hush Sound,1,220,36.1,0,191.1
+Boys Age,1,180,21.8,0,185.1
+The Maddox Brothers & Rose,0,133,8.9,0,146.1
+Alrahim Wright III,0,221,16.1,9,133.4
+Definitive,0,74,14.2,1,225.6
+Lafayette Afro Rock Band,1,34,34.0,0,273.6
+Jackers Revenge,0,222,37.7,0,259.2
+The Easybeats,1,223,29.3,0,170.1
+Rusty Cage,1,0,41.8,6,144.4
+Katja Behnke,0,0,2.0,0,191.3
+Brain Sounds AI,0,163,0.7,0,215.9
+Dyland & Lenny,1,224,43.9,0,218.7
+Imperial State Electric,1,225,23.9,0,140.3
+Nobody's Angel,1,226,12.4,0,221.7
+Willie Jones III,0,227,15.0,0,347.2
+S.D.J.,0,228,8.1,0,367.5
+Robert Randolph & The Family Band,1,229,38.1,0,217.1
+for KING & COUNTRY,1,41,58.6,0,224.2
+Shankar-Ehsaan-Loy,1,196,56.8,0,339.1
+Dan Vapid & the Cheats,0,230,19.2,0,100.4
+Nat King Cole Trio,1,231,47.3,0,166.0
+Confession,1,232,17.5,8,187.5
+itoldyouiwouldeatyou,0,233,8.1,0,239.4
+Akkord,0,234,2.0,0,368.9
+Theophilus London,1,179,43.2,4,220.4
+Remioromen,1,235,41.3,0,287.6
+Prince Alla,1,190,24.6,1,200.3
+Music Together,1,49,49.4,0,111.4
+J Moss,1,54,35.6,0,243.7
+Harlem River Drive,0,236,8.1,0,333.1
+Jason Weaver,0,237,22.0,0,260.7
+Le Bal des Enragés,0,238,0.6,0,293.2
+Moe Turk,0,228,28.1,0,343.3
+Narcotango,0,239,11.3,0,271.6
+Extreme Music,1,240,31.9,0,214.4
+Alessandra Leão,1,241,39.7,0,188.7
+Kid Cudi,1,242,64.5,2,230.7
+Laika,0,0,8.8,7,209.7
+OneRepublic,1,243,52.3,1,154.1
+David Puentez,1,244,31.7,0,180.3
+GOING STEADY,1,245,33.5,10,288.2
+Eddie Noack,0,246,30.4,0,141.5
+Ladi6,1,247,23.3,0,218.5
+Luca Eck,0,248,24.5,1,332.2
+Mr.EggPlant,0,249,2.8,0,217.6
+David Y Abraham,0,250,27.2,0,263.3
+Antarctic Wastelands,0,251,37.4,0,172.8
+MALIQ & D'Essentials,1,252,66.7,0,245.3
+Opus,1,253,38.5,0,330.3
+Ski Aggu,1,254,60.2,10,194.2
+Dikembe,1,42,36.7,0,145.6
+Alex Adair,1,140,41.7,0,188.0
+sadeyes,1,255,47.4,8,156.9
+Ryan McCartan,1,112,59.0,2,236.4
+Mari Iijima,1,256,25.3,0,241.8
+Nikolai Erdenko,0,141,6.5,0,188.3
+Far East Movement,1,257,49.1,2,215.3
+Youth in Revolt,1,258,26.1,1,196.5
+PENTAGON,1,92,50.2,0,188.3
+Anuel AA,1,132,55.1,9,269.2
+Tego Calderón,1,192,65.2,5,226.9
+Kintar,0,259,24.7,0,302.9
+coldrain,1,260,47.4,1,232.5
+Tradelove,0,244,13.1,0,324.1
+Dim Out,0,261,6.1,0,252.0
+GVBBZ,0,262,23.1,1,203.4
+Lo-fi Hope,0,263,28.0,0,108.5
+Carl Philipp Emanuel Bach,1,128,57.1,0,79.3
+Vektor,1,264,30.3,0,411.2
+Daft Punk,1,265,45.1,0,273.7
+Siavash Amini,0,266,7.7,0,426.2
+Fella,0,267,33.0,1,150.2
+TT Grace,0,268,27.8,0,178.3
+Odisseo,1,269,56.2,0,210.0
+Nicky Youre,1,270,60.7,0,157.9
+ELIJAH MOON,0,221,47.4,2,104.0
+TRI.BE,1,271,45.6,0,187.7
+Pentatonix,1,272,42.0,0,231.8
+Edge Of Paradise,1,273,34.1,0,243.8
+Kids Dance Party,0,88,11.0,0,134.8
+Delta Heavy,1,17,50.1,0,230.6
+Crash Course In Science,0,274,18.7,0,193.7
+JÃ¼rgen Paape,0,0,0.0,0,312.0
+88 Fingers Louie,1,275,38.1,0,132.3
+Ross I-Yota,0,276,15.5,2,199.2
+Amity Fall,0,277,41.9,0,136.2
+Lusine,1,148,35.8,0,258.6
+Gino Vannelli,1,278,44.7,0,241.4
+Yok Quetschenpaua,0,279,17.2,0,195.3
+Tongai Moyo,1,280,19.2,0,545.3
+Elias Rahbani,1,281,32.2,0,159.1
+Los Payos,1,282,26.5,1,171.1
+Tripulación de Osos,1,283,25.0,0,193.0
+Mikael Tariverdiev,0,29,25.3,0,131.5
+Kazumasa Oda,1,235,27.8,0,266.7
+Street Smart Cyclist,0,284,12.0,1,167.0
+Command Strange,0,285,14.1,0,277.1
+El Santy,0,286,8.3,1,223.9
+Everything In Slow Motion,0,287,14.4,0,270.5
+Rogue Wave,1,288,40.4,0,188.1
+Fumez The Engineer,1,289,35.6,10,218.3
+Jaakko Eino Kalevi,1,290,35.0,0,253.0
+Ernest Tubb,1,291,40.6,0,158.6
+Vantin,0,292,14.0,1,90.5
+DIIV,1,293,49.1,0,200.5
+Chicane,1,294,35.6,1,301.7
+Derrick May,1,295,10.2,0,410.1
+GEZAN,1,245,18.6,1,251.3
+Old Sambalpuri,0,296,27.0,0,380.4
+Nahee,0,297,33.1,0,196.7
+Ricardo Arjona,1,77,69.8,0,260.9
+Sun Eater,0,298,10.1,0,245.0
+DEHA INC.,1,299,56.8,10,138.0
+Richie Ray & Bobby Cruz,1,300,34.2,0,346.0
+Jamsha,1,301,41.5,2,220.0
+Seven Lions,1,17,35.7,0,220.0
+Jaclyn Davies,0,302,42.7,0,207.2
+Marisa Anderson,1,303,13.6,0,219.8
+Chronic Law,1,131,42.7,8,184.0
+Spheric Universe Experience,0,304,13.4,0,321.9
+Volován,1,269,38.7,0,235.6
+Dawer X Damper,1,305,10.2,1,146.8
+Shot Jackson,0,306,17.6,0,165.2
+Quininho De Valente,0,307,13.5,0,177.5
+The Jesus and Mary Chain,1,103,42.0,0,194.9
+Weź nie pytaj,0,308,22.6,0,188.6
+The War On Drugs,1,309,57.5,0,377.4
+Lyres,0,310,20.2,0,184.8
+Axewitch,0,311,7.2,0,275.8
+Akalé Wubé,1,34,36.0,0,233.6
+Emilie Mover,0,312,18.5,0,182.2
+Danny Paisley,0,0,0.125,0,139.0
+Xilent,1,17,30.0,0,278.3
+Sharon Jones & The Dap-Kings,1,313,58.7,0,188.4
+The Everly Brothers,1,231,53.6,0,138.3
+Ezi Emela,0,314,5.0,2,206.6
+Lexy Panterra,1,0,25.2,5,174.4
+Mambo Kingz,1,132,61.0,4,235.7
+Jacob's Piano,1,52,48.9,0,237.1
+Michel Plasson,0,315,4.8,0,313.3
+Sam Myers,0,316,18.5,0,287.9
+The Smiths,1,317,76.4,0,231.3
+Alina Baraz,1,318,48.7,1,216.4
+Into The Pale Abyss,0,6,19.2,0,245.6
+Ken Whiteley,0,319,1.5,0,200.7
+Pernice Brothers,0,113,26.4,0,187.3
+Xenia (UA),1,0,17.0,0,348.4
+Paul Revere & The Raiders,1,219,32.7,0,169.2
+Lin-Manuel Miranda,1,112,32.0,0,154.4
+Derrick May,1,295,32.3,0,215.1
+Mpharanyana,0,320,22.3,0,191.6
+The Dukes Of Stratosphear,1,321,22.0,0,243.5
+LIL DUSTY G,1,255,53.0,3,128.3
+Pastor T.L. Barrett and the Youth for Christ Choir,1,322,31.9,0,284.5
+Juan José Mosalini,0,323,3.2,0,345.2
+Shylmagoghnar,1,324,32.7,0,410.4
+Amanda Waffles,0,0,15.0,0,149.66666666666666
+T.I.,1,232,60.5,10,262.2
+Prince Daddy & the Hyena,1,325,43.3,7,166.8
+Kiko Horta,0,326,6.9,0,271.1
+Aparna Rajeev,0,327,35.7,0,178.1
